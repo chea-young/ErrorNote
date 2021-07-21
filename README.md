@@ -6,3 +6,5 @@
 - SyntaxError: Unexpected identifier
   1. mysql cmd 켜기
   2. `\sql`
+- ERROR: Not connected.
+  1. `\connect root@localhost`
