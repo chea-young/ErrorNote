@@ -8,3 +8,9 @@
   2. `\sql`
 - ERROR: Not connected.
   1. `\connect root@localhost`
+
+### Github
+- warning: LF will be replaced by CRLF in [folder]/.gitignore.
+The file will have its original line endings in your working directory
+1. case Window
+  `git config --global core.autocrlf true`
